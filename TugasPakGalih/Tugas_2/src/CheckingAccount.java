@@ -1,19 +1,18 @@
 public class CheckingAccount {
         private double balance;
         private String name;
+
         public CheckingAccount(double balance, String name) {
                 this.balance = balance;
                 this.name = name;
         }
         public double getBalance() {
                 return balance;
-                }
-        public void setBalance(double balance){
-                this.balance = balance;
         }
         public String getName() {
                 return name;
-                }
+        }
+
 
         public void addBalance(double amount){
                 balance += amount;
@@ -28,7 +27,7 @@ public class CheckingAccount {
                         balance -= amount;
                         System.out.printf("Withdrawal of $%.2f success || Your balance now: $%.2f\n", amount, balance);
                 }
-             }
+        }
 }
 
 

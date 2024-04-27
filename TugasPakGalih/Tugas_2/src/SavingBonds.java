@@ -1,6 +1,7 @@
 public class SavingBonds {
     int bond;
     double price, balance, interest, totalPrice;
+
     SavingBonds (int bond, double price, double balance){
         this.bond = bond;
         this.price = price;
