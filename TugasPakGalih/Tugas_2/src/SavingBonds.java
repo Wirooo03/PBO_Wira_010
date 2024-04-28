@@ -2,7 +2,8 @@ public class SavingBonds {
      double interest, totalPrice;
 
     public void showInterest(double price, int bond, double balance){
-        for(int i = 0; i < bond; i++){
+         // perubahan operator < menjadi <=
+        for(int i = 0; i <= bond; i++){
             switch(i){
                 case 0,1,2,3,4,5,6,7,8,9,10,11:
                     interest = price/bond + price * 0.5/100;
