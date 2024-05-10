@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -31,9 +32,10 @@ public class Main {
         System.out.println("==== LIBRARY SYSTEM ===");
         System.out.println("1. Login as Student");
         System.out.println("2. Login as Admin");
-        System.out.println("3. Login as Quit");
-        System.out.print("Chose option: ");
+        System.out.println("3. Quit");
+        System.out.print("Choose option: ");
     }
+
     private static void studentLogin(Scanner scanner){
         System.out.println("=== STUDENT LOGIN ===");
         System.out.print("Enter your NIM: ");
@@ -45,9 +47,10 @@ public class Main {
             System.out.println("User not found!");
         }
     }
+
     private static void adminLogin(Scanner scanner){
-        final String USERNAME = "wiroyuki03";
-        final String PASSWORD = "30ikuyoriw";
+        final String USERNAME = "admin123";
+        final String PASSWORD = "admin123";
 
         System.out.println("=== ADMIN LOGIN ===");
         System.out.print("Enter Username: ");
