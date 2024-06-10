@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="167958ba-6637-48ad-9fdb-047c28a9ec7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/HistoryBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/StoryBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/TextBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/HistoryBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Main$BookList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/StoryBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Student$BorrowedBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Student$UserStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/TextBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TUGAS/out/production/TUGAS/User.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ebQVV14aFbthwAhBwTHcU0fVJC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/NF_Ramz/TUGAS KULIAH/SEMESTER 2/PBO_Pemograman Berbasis Objek/Modul_4/Codelab/After fix code/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="167958ba-6637-48ad-9fdb-047c28a9ec7f" name="Changes" comment="" />
+      <created>1712170821559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712170821559</updated>
+    </task>
+    <servers />
+  </component>
+</project>
